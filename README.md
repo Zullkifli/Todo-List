@@ -16,3 +16,4 @@ Simple task management and reminder app using
 <img src="screenshots/home.png" alt="" width=30%>
 <img src="screenshots/insert.png" alt="" width=30%>
 </p>
+.
